@@ -4,13 +4,13 @@
 
 ### A hands-on, example-driven guide to writing real-world SQL in MySQL
 
-**🎥 Learn it step-by-step on YouTube → [Watch the Full MySQL Playlist](https://www.youtube.com/playlist?list=PLkFShEMrLia1jn4NLHAEI8gX3lIWW6kH9)**
+**🎥 Learn it step-by-step on YouTube → [Watch the Full 20-Hour MySQL Course](https://www.youtube.com/watch?v=DwFu-cqVm7E)**
 
-<a href="https://www.youtube.com/playlist?list=PLkFShEMrLia1jn4NLHAEI8gX3lIWW6kH9" title="Watch the full MySQL course on YouTube">
-  <img src="https://img.youtube.com/vi/h2Bf3IvN8gw/maxresdefault.jpg" alt="MySQL Complete Course — click to watch the full playlist on YouTube" width="640">
+<a href="https://www.youtube.com/watch?v=DwFu-cqVm7E" title="MySQL Full Course for Beginners — 20 Hours MySQL Tutorial">
+  <img src="https://img.youtube.com/vi/DwFu-cqVm7E/maxresdefault.jpg" alt="MySQL Full Course for Beginners — 20 hour MySQL tutorial covering joins, subqueries, window functions and CTEs" width="640">
 </a>
 
-[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20the%20Course-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLkFShEMrLia1jn4NLHAEI8gX3lIWW6kH9)
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20the%20Course-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DwFu-cqVm7E)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -19,7 +19,7 @@
 ---
 
 > ### ⭐ Enjoying this guide?
-> **[Subscribe on YouTube](https://www.youtube.com/playlist?list=PLkFShEMrLia1jn4NLHAEI8gX3lIWW6kH9)** for the complete video walkthrough of every topic below, and **give this repo a ⭐** so more learners can find it. New lessons drop regularly — hit the bell so you never miss one.
+> **[Subscribe on YouTube](https://www.youtube.com/watch?v=DwFu-cqVm7E)** for the complete video walkthrough of every topic below, and **give this repo a ⭐** so more learners can find it. New lessons drop regularly — hit the bell so you never miss one.
 
 ---
 
@@ -32,7 +32,7 @@ Whether you're preparing for an interview, leveling up at work, or just starting
 ## 🚀 Getting Started
 
 1. **Set up the sample database** — start with [Part 0: Sample Database](docs/00-sample-database.md) and run the schema + seed data in your MySQL instance.
-2. **Follow along with the video** — each guide maps to a lesson in the [YouTube playlist](https://www.youtube.com/playlist?list=PLkFShEMrLia1jn4NLHAEI8gX3lIWW6kH9).
+2. **Follow along with the video** — each guide maps to a section of the [20-hour MySQL course video](https://www.youtube.com/watch?v=DwFu-cqVm7E).
 3. **Practice** — every query in these docs runs against the sample database, so you can experiment as you learn.
 
 ```bash
@@ -155,6 +155,6 @@ Released under the [MIT License](LICENSE). Free to use, share, and learn from �
 
 <div align="center">
 
-**If this helped you, please ⭐ the repo and [subscribe on YouTube](https://www.youtube.com/playlist?list=PLkFShEMrLia1jn4NLHAEI8gX3lIWW6kH9). It genuinely helps! 🙌**
+**If this helped you, please ⭐ the repo and [subscribe on YouTube](https://www.youtube.com/watch?v=DwFu-cqVm7E). It genuinely helps! 🙌**
 
 </div>
